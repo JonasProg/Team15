@@ -9,7 +9,11 @@ Welcome to Area and Circumference of square + circle's documentation!
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
-
+   readme
+   installation
+   LICENSE
+   help
+   modules
 
 
 Indices and tables
