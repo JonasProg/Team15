@@ -18,8 +18,8 @@ sys.path.insert(0, os.path.abspath('../src'))
 # -- Project information -----------------------------------------------------
 
 project = 'Area and Circumference of square + circle'
-copyright = '2021, Andreas Albers und Jonas'
-author = 'Andreas Albers und Jonas'
+copyright = '2021, Andreas und Jonas'
+author = 'Andreas und Jonas'
 
 # The full version, including alpha/beta/rc tags
 release = 'Heute'
