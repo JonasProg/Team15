@@ -6,3 +6,4 @@ src
 
    area
    circumference
+   main

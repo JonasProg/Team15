@@ -1,3 +1,5 @@
+""" Interaktive Konsole für area.py und circumference.py
+"""
 import area as a
 import circumference as c
 
