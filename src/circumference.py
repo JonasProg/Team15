@@ -18,7 +18,7 @@ def circ_circle(r):
 def circ_square(l):
     """Calculates the circumference of a square.
 
-    Extended description of function.
+    Calculates the circumference of a square based on the lenth of side.
 
     Args:
         l (float) : l is the lengths of side of a square.

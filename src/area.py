@@ -18,7 +18,7 @@ def area_circle(r):
 def area_square(l):
     """Calculates the area of a square.
 
-    Extended description of function.
+    Calculates the area of a square based on the lenth of side.
 
     Args:
         l (float) : l is the length of side of a square.
