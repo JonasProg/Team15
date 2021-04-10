@@ -1,2 +1,2 @@
-# help
-if you need help please contact Andreas Albers.
+# Help
+If you need help please contact Andreas or Jonas.
