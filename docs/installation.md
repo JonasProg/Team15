@@ -1,3 +1,3 @@
 # Installation
 
-Please install from TestPiPy.
+Integration into TestPiPy pending.
