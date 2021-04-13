@@ -13,7 +13,7 @@ def circ_circle(r):
     '''
     if r < 0:
         raise ValueError("The radius must be >= 0.")
-    return pi*r
+    return 2*pi*r
 
 def circ_square(l):
     """Calculates the circumference of a square.
