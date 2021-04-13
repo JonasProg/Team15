@@ -16,6 +16,7 @@ def circ_circle(r):
         raise ValueError("The radius must be >= 0.")
     return 2 * pi * r
 
+
 def circ_square(length):
     """Calculates the circumference of a square.
 
@@ -29,6 +30,5 @@ def circ_square(length):
     """
     if length < 0:
         raise ValueError("The length of side must be >= 0.")
-    area_output= 4 * length
+    area_output = 4 * length
     return area_output
-    

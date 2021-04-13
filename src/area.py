@@ -16,6 +16,7 @@ def area_circle(r):
         raise ValueError("The radius must be >= 0.")
     return pi * r**2
 
+
 def area_square(length):
     """Calculates the area of a square.
 
@@ -29,5 +30,5 @@ def area_square(length):
     """
     if length < 0:
         raise ValueError("The length of side must be >= 0.")
-    area_output= length**2
+    area_output = length**2
     return area_output
