@@ -25,6 +25,7 @@ def test_values1():
     with pytest.raises(ValueError):
         a.area_circle(-5)
 
+
 @pytest.mark.square
 @pytest.mark.parametrize('myinput, myref',
                          [(1, 1),
