@@ -1,2 +1,2 @@
 # Team15
-Arbeiten mit Andreas
+Please take a look at https://team-15.readthedocs.io

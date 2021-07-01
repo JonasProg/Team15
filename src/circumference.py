@@ -1,5 +1,6 @@
 from math import pi
 
+
 def circ_circle(r):
     '''Circumference of circle.
 
@@ -13,20 +14,21 @@ def circ_circle(r):
     '''
     if r < 0:
         raise ValueError("The radius must be >= 0.")
-    return pi*r
+    return 2 * pi * r
 
-def circ_square(l):
+
+def circ_square(length):
     """Calculates the circumference of a square.
 
     Calculates the circumference of a square based on the lenth of side.
 
     Args:
-        l (float) : l is the lengths of side of a square.
+        length (float) : length is the length of side of a square.
 
     Returns:
         float: circumference of the square.
     """
-    if l < 0:
+    if length < 0:
         raise ValueError("The length of side must be >= 0.")
-    area_output= 4 * l
+    area_output = 4 * length
     return area_output

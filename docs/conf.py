@@ -17,9 +17,9 @@ sys.path.insert(0, os.path.abspath('../src'))
 
 # -- Project information -----------------------------------------------------
 
-project = 'Area and Circumference of square + circle'
-copyright = '2021, Andreas und Jonas'
-author = 'Andreas und Jonas'
+project = 'The Area and Circumference project'
+copyright = '2021, Andreas and Jonas'
+author = 'Andreas and Jonas'
 
 # The full version, including alpha/beta/rc tags
 release = 'Heute'
@@ -32,8 +32,7 @@ release = 'Heute'
 # ones.
 extensions = ['sphinx.ext.autodoc',
               'recommonmark',
-              'sphinx.ext.napoleon'
-]
+              'sphinx.ext.napoleon']
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']

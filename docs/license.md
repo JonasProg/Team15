@@ -1,6 +1,8 @@
-# MIT License
+# License
 
-Copyright (c) 2021 JonasProg
+MIT License
+
+Copyright (c) 2021 Andreas and Jonas
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
